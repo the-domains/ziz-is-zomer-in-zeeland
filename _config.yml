@@ -1,0 +1,14 @@
+name: 'ZIZ is Zomer In Zeeland '
+layout_spectrum: 0.061922048112378225
+typography_spectrum: 0.03352673280058971
+color:
+  brandColors:
+    - '#73603D'
+    - '#BF8A49'
+    - '#F2CA80'
+    - '#5E5A59'
+    - '#0D0D0D'
+  brandStrength: 0.46315931862458914
+  lightness: 0.8103204456020747
+  saturation: 0.8430578407768189
+  rhythmicContrast: 0.4382538820808273
